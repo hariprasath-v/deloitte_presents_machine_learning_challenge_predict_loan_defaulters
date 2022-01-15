@@ -53,10 +53,10 @@
 
 ### Feature Importance Lightgbm  
 
-![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/AnalyticsVidhya-ML-DS-Competition/LGBM_Feature_Importance_Plot.png)
+![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/main/LGBM_Feature_Importance_Plot.png)
 
 
 ### Model's Validation Logloss comparison
 
-![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/AnalyticsVidhya-ML-DS-Competition/Model's_Validation-Logloss_Comparison.png)
+![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/main/Model's_Validation-Logloss_Comparison.png)
 
