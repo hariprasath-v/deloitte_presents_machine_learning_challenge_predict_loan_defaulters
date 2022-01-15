@@ -43,12 +43,12 @@
 
 ### Feature Importance Catboost  
 
-![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/AnalyticsVidhya-ML-DS-Competition/Catboost_Feature_Importance_Plot.png)
+![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/main/Catboost_Feature_Importance_Plot.png)
 
 
 ### Feature Importance XGboost  
 
-![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/AnalyticsVidhya-ML-DS-Competition/XGBoost_Feature_Importance_Plot.png)
+![Alt text](https://github.com/hariprasath-v/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/blob/main/XGBoost_Feature_Importance_Plot.png)
 
 
 ### Feature Importance Lightgbm  
